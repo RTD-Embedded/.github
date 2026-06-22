@@ -1,12 +1,8 @@
-## Hi there 👋
+# Access the digial world with RTD
 
-<!--
+RTD Embedded Technologies provides high quality embedded computer solutions since 1985. Our stackable hardware solutions power industrial, military, transportation, and aerospace applications arcross the globe.
 
-**Here are some ideas to get you started:**
+We are proudly ISO-9001 and AS9100 certified and a [RMS Consortium Member](https://www.rmsconsortium.org/).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Can't find your product's software here?
+RTD is in the process of moving our software packages to GitHub to provide you rapid setup with your RTD systems. Check out the software page on our [website](https://www.rtd.com/software_agreement.htm) or contact us at techsupport@rtd.com to see if we can help.
