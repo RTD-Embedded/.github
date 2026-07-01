@@ -1,4 +1,9 @@
-# Access the digial world with RTD
+
+
+<img src="https://www.rtd.com/RTD_embedded_logo.svg" alt="Description" width="300">
+
+
+# Access the digital world with RTD
 
 RTD Embedded Technologies provides high quality embedded computer solutions since 1985. Our stackable hardware solutions power industrial, military, transportation, and aerospace applications arcross the globe.
 
