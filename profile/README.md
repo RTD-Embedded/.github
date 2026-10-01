@@ -20,7 +20,7 @@ There are many different part names that use the same software and manuals. If y
 The shortened name will remove all hyphened prefix and suffix letters and will remove the 'HR' from our product names. For example: the `IDAN‑DM35224HR‑62S` is a data module 
 called the `DM35224`. You can search for the relevant software, by clicking repositories and searching for `DM35224`. You will notice that the repository that is found may 
 not be the same name as the one your searched in this case [DM35424-Linux](https://github.com/RTD-Embedded/DM35424-Linux). There may also be more than one repository. Check 
-under the repositories `readme.md` to confirm if your board is supported.
+under the repository's `readme.md` to confirm if your board is supported.
 
 
 ## Can't find your product's software here?
